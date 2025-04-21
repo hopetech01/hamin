@@ -25,7 +25,8 @@ body {
   color: #6B6F92;
   overflow-x: hidden;
   direction: rtl;
-  text-align: right;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 * {
@@ -91,6 +92,8 @@ h6 {
 .section-title p {
   font-size: 18px;
   line-height: 28px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 h1 a,
@@ -138,6 +141,8 @@ p {
   font-weight: 400;
   line-height: 25px;
   margin: 0px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .img-bg {
@@ -869,7 +874,8 @@ p {
 .about-section .accordion .single-faq .faq-content {
   padding: 0 30px;
   padding-bottom: 20px;
-  text-align: right;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* ============== service css ==============*/
@@ -1033,7 +1039,8 @@ p {
 .footer .widget-wrapper .footer-widget .desc {
   font-size: 18px;
   line-height: 28px;
-  text-align: right;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .footer .widget-wrapper .footer-widget .socials {
